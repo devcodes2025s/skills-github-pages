@@ -1,1 +1,3 @@
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes"
+title: Tech News Blog
+description: Stay updated with the latest tech news and trends.
